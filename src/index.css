@@ -93,6 +93,17 @@
     100% { transform: translateY(0px) scale(1); }
 }
 
+.card-item {
+    animation: drift 12s ease-in-out infinite alternate;
+    will-change: transform;
+}
+
+@keyframes drift {
+    0% { transform: translateY(0px) scale(1); }
+    50% { transform: translateY(-5px) scale(1.002); }
+    100% { transform: translateY(0px) scale(1); }
+}
+
 /* Bonus Plus Icon — Vibrant Metallic Orange */
 .bonus-plus-icon {
     background: linear-gradient(135deg, #F97316 0%, #FBBF24 40%, #F97316 60%, #EA580C 100%);
