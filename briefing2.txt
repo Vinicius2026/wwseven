@@ -1,0 +1,9 @@
+os tamanhos estão ruim desktop e mobile. as imagens estão ruim não estão encaixando de forma precisa. você consegue criar imagens lendo essas imagens de referencia que dei para recriarmos os icones de forma mais profissional, hd e construtiva visualmente.
+
+analise e faça para podermos ajustar. dessa forma que está está feio.
+
+no desktop como são só 2 em fileira fica feio pois fica 2 grandes e não conecta direito com o site. 
+
+e mobile fica bom mas fica ruim pelas imagens não conectarem direito.
+
+me ajude a recriar.
